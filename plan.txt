@@ -1,6 +1,0 @@
-Pull to local repo. 
-Make first commit. 
-Push to origin. 
-Create new branch for pages.
-Commit.
-Push to origin. 
